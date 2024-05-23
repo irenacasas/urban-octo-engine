@@ -1,1 +1,1 @@
-This is version v1.7.
+This is version v1.8.
